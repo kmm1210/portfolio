@@ -49,12 +49,12 @@
     + 해결 : imageView의 layer에서 CALayer로 바꿔 적용시킴으로써 해결
 
 ### Screenshot
-<img src="./img/Boatrace2_login.png" width="320px" height="180px" title="login" alt="login" />
-<img src="./img/Boatrace2_jyo.png" width="320px" height="180px" title="jyo" alt="jyo" />
-<img src="./img/Boatrace2_menu.png" width="320px" height="180px" title="menu" alt="menu" />
-<img src="./img/Boatrace2_ranning_table.png" width="320px" height="180px" title="ranning_table" alt="ranning_table" />
-<img src="./img/Boatrace2_vote.png" width="320px" height="180px" title="vote" alt="vote" />
-<img src="./img/Boatrace2_race_result.png" width="320px" height="180px" title="race_result" alt="race_result" />
+<a href="./img/Boatrace2_login.png"><img src="./img/Boatrace2_login.png" width="320px" height="180px" title="login" alt="login" /></a>
+<a href="./img/Boatrace2_jyo.png"><img src="./img/Boatrace2_jyo.png" width="320px" height="180px" title="jyo" alt="jyo" /></a>
+<a href="./img/Boatrace2_menu.png"><img src="./img/Boatrace2_menu.png" width="320px" height="180px" title="menu" alt="menu" /></a>
+<a href="./img/Boatrace2_ranning_table.png"><img src="./img/Boatrace2_ranning_table.png" width="320px" height="180px" title="ranning_table" alt="ranning_table" /></a>
+<a href="./img/Boatrace2_vote.png"><img src="./img/Boatrace2_vote.png" width="320px" height="180px" title="vote" alt="vote" /></a>
+<a href="./img/Boatrace2_race_result.png"><img src="./img/Boatrace2_race_result.png" width="320px" height="180px" title="race_result" alt="race_result" /></a>
 
 ##  모터 보트 경기 iOS어플리케이션 개발Ⅰ
 19.07.01 ~ 20.08.31
@@ -82,11 +82,12 @@
     + 해결 : viewWillLayoutSubviews의 스크롤 뷰안의 서브뷰들을 사이즈 재조정을 통하여 해결  
      
 ### Screenshot
-<img src="./img/Boatrace_launcher.png" width="180px" height="320px" title="Launcher" alt="Launcher" />
-<img src="./img/Boatrace_home.png" width="180px" height="320px" title="Home" alt="Home" />
-<img src="./img/Boatrace_favorite_racer.png" width="180px" height="320px" title="FavoriteRacer" alt="FavoriteRacer" />
-<img src="./img/Boatrace_user_setting.png" width="180px" height="320px" title="UserSetting" alt="UserSetting" />
-<img src="./img/Boatrace_webview.png" width="180px" height="320px" title="Webview" alt="Webview" />
+<a href="./img/Boatrace_launcher.png"><img src="./img/Boatrace_launcher.png" width="180px" height="320px" title="Launcher" alt="Launcher" /></a>
+<a href="./img/Boatrace_home.png"><img src="./img/Boatrace_home.png" width="180px" height="320px" title="Home" alt="Home" /></a>
+<a href="./img/Boatrace_favorite_racer.png"><img src="./img/Boatrace_favorite_racer.png" width="180px" height="320px" title="FavoriteRacer" alt="FavoriteRacer" /></a>
+<a href="./img/Boatrace_user_setting.png"><img src="./img/Boatrace_user_setting.png" width="180px" height="320px" title="UserSetting" alt="UserSetting" /></a>
+<a href="./img/Boatrace_webview.png"><img src="./img/Boatrace_webview.png" width="180px" height="320px" title="Webview" alt="Webview" /></a>
+
 
 ##  MUFG은행 외환 웹사이트 구축
 은행의 자체 VBA, Excel 등을 이용한 분석 및 외환 자동 집계를 Web어플리케션을 통해 반자동화 툴을 구축하는 서비스
