@@ -80,6 +80,11 @@
     + 문제 : 각 스크롤 뷰의 화면에서 가운데로 데이터가 제대로 표시되지 않고, 왼쪽으로 치우쳐져 표시됨   
     + 연구 : View의 LiftCycle를 재확인 후에 viewWillLayoutSubviews에서 사이즈 재조정을 하면서 표시된 화면을 보고 사이즈 재조정 문제라고 판단
     + 해결 : viewWillLayoutSubviews의 스크롤 뷰안의 서브뷰들을 사이즈 재조정을 통하여 해결  
+
+- WkWebView에서의 링크 이동
+    + 문제 : WkWebView에서 링크 이동이 안되는 버그 발생 
+    + 연구 : WebView팀에서 < a >태그가 아닌 window.open의 자바스크립트를 이용하였다고 하여, 확인한 결과 WKNavigationDelegatee에 트리거가 되자않는다는 것을 확인
+    + 해결 : window.open은 WKUIDelegate에 트리거가 되는 것을 확인해 링크의 url을 열리게 함   
      
 ### Screenshot
 <a href="./img/Boatrace_launcher.png"><img src="./img/Boatrace_launcher.png" width="180px" height="320px" title="Launcher" alt="Launcher" /></a>
@@ -90,7 +95,7 @@
 
 
 ##  MUFG은행 외환 웹사이트 구축
-은행의 자체 VBA, Excel 등을 이용한 분석 및 외환 자동 집계를 Web어플리케션을 통해 반자동화 툴을 구축하는 서비스
+은행의 자체 VBA, Excel 등을 이용한 분석 및 외환 자동 집계를 Web어플리케션을 통해 반자동화 툴을 제공하는 서비스를 구축하는 프로젝트입니다.
 
 18.01.01 ~ 19.06.30
 ### 사용한 기술
@@ -109,5 +114,5 @@
     - ReactJS를 사용하여 웹 화면 구축 및 API 서버 개발
 
 - Unit/UI 테스트사양서 작성 및 테스트
-- Slack과 JIRA를 이용해 정보공유 및 프로젝트 과제관리
+- Slack과 JIRA를 이용한 정보공유 및 프로젝트 과제관리
 
