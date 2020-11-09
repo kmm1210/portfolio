@@ -117,11 +117,11 @@
     
 - 외환 Sales팀
     - 외환 Sales는 FX Connect라는 외환 거래 프로그램과 연동하여, 거래하는 외환을 여러 패턴으로 자동집계 해주며, 은행으로부터 받은 실시간 환율로부터 거래를 해주는 프로젝트입니다.
-    Front-end
+    + Front-end
     - Ag-grid를 이용해 데이터 테이블 출력
     - Ant-design의 UI컴포넌트를 이용해 디자인 개발
     - Server사이드의 API연동 및 데이터 표시
-    Back-end
+    + Back-end
     - 자동집계 및 Csv파일 데이터 처리 API 개발
     - Redis의 PUB/SUB를 이용해 실시간 환율 데이터 전송
 
