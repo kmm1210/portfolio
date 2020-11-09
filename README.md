@@ -107,23 +107,23 @@
     - Hedge Fund는 고객의 데이터와 환율 데이터를 이용한 거래 분석 및 분석 데이터를 고객의 거래에 적용하여, 거래를 할 때 이윤이 남는 타이밍 및 예상 포인트를 추출하는 프로젝트입니다.
     - 환율의 분석 및 데이터 정교화 작업 담당
     + Front-end
-     - Server사이드의 API연동 및 데이터표시
-     - Excel 파일 다운로드 기능
-     - Ag-grid테이블의 거래 타이밍에 따른 flash 이벤트 효과 
+      - Server사이드의 API연동 및 데이터표시
+      - Excel 파일 다운로드 기능
+      - Ag-grid테이블의 거래 타이밍에 따른 flash 이벤트 효과 
     + Back-end
-     - Pandas를 이용해 대량 데이터를 분석 및 처리
-     - 거래분석 데이터 결과를 PivotTable 및 Graph의 Excel데이터로 시각화 처리
-     - MongoDB를 이용하여 DB에 데이터 추가
+      - Pandas를 이용해 대량 데이터를 분석 및 처리
+      - 거래분석 데이터 결과를 PivotTable 및 Graph의 Excel데이터로 시각화 처리
+      - MongoDB를 이용하여 DB에 데이터 추가
     
 - 외환 Sales팀
     - 외환 Sales는 FX Connect라는 외환 거래 프로그램과 연동하여, 거래하는 외환을 여러 패턴으로 자동집계 해주며, 은행으로부터 받은 실시간 환율로부터 거래를 해주는 프로젝트입니다.
     + Front-end
-     - Ag-grid를 이용해 데이터 테이블 출력
-     - Ant-design의 UI컴포넌트를 이용해 디자인 개발
-     - Server사이드의 API연동 및 데이터 표시
+      - Ag-grid를 이용해 데이터 테이블 출력
+      - Ant-design의 UI컴포넌트를 이용해 디자인 개발
+      - Server사이드의 API연동 및 데이터 표시
     + Back-end
-     - 자동집계 및 Csv파일 데이터 처리 API 개발
-     - Redis의 PUB/SUB를 이용해 실시간 환율 데이터 전송
+      - 자동집계 및 Csv파일 데이터 처리 API 개발
+      - Redis의 PUB/SUB를 이용해 실시간 환율 데이터 전송
 
 - Unit/UI 테스트사양서 작성 및 테스트
 - Slack과 JIRA를 이용한 정보공유 및 프로젝트 과제관리
