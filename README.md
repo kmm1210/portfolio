@@ -16,18 +16,19 @@
     - GitLab
     - GitButket
 
-## 프로젝트
+## 프로젝트【일본】
 ## Batch File작성 웹어플리케이션 구축
 엑셀 VBA를 사용하여 이동통신시스템의 기지국 배치에 따른 통신장비의 주파수대역, 대역폭, 변복조기술, 송신 출력, 채널등의 정보를 이용하여 Batch File을 작성하는 시스템을 웹어플리케션을 통해 자동으로 Batch File을 작성해주는 서비스를 구축하는 프로젝트입니다.
 
 ### 프로젝트 기간
 2020.09.01 ~ 2021.01.31
 ### 사용한 기술
-- ```Java``` ,```Spring``` , ```ReactJS``` 
+- ```Java``` ,```Spring Boot``` , ```ReactHook``` 
 - ```Postgre``` , ```Postman``` , ```GitButket```
 
 ### 수행한 역할
-- mockup화면 작성
+- mockup UI 작성 및 mockup UI 설계서 작성
+- 화면 설계서 작성 및 수정
 - Meterial-UI프레임워크 적용
 - Restful API 정의
 - Excel 파일 다운로드 기능
@@ -45,7 +46,8 @@
 - ```Objective-C``` , ```x code11``` , ```GitButket```
 
 ### 수행한 역할
-- 레이아웃 대응
+- UI 레이아웃 대응
+- UI 설계서 수정
 - StatusBar의 시간표시
 - Target버전업에 따른 버그 대응
 - 버전업일 경우 AppStore로 이동
@@ -86,6 +88,7 @@
 
 ### 수행한 역할
 - storyboard를 이용한 신규 화면 추가 및 디자인 교체 담당
+- UI 설계서 및 API 설계서 수정
 - iOS11의Target버전업에 따른 WkWebView이행 작업
 - deprecated메소드 교체 작업
 - RESTful API를 이용하여 유저데이터 및 경기 정보 서비스의 통신 개발
