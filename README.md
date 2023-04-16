@@ -3,6 +3,8 @@
 
 ## 기술스택
 - 언어
+    - Swift
+    - Swift UI
     - Objective-C
     - Python
     - Java
@@ -15,6 +17,64 @@
     - JIRA
     - GitLab
     - GitButket
+    - SourceTree
+
+## 프로젝트【한국】
+## 커피하우스
+주식이야기를 나누며 사람들과 소통하는 SNS의 기능과 증권사들(SK,KB,NH,신한)의 주식 계좌개설 및 주식 구매, 판매를 할 수 있는 앱입니다.
+
+### 프로젝트 기간
+2022.01.17 ~ 2022.11.17
+
+### 사용한 기술
+- ```Swift``` , ```Swift-UI``` , ```SOAP API```  , ```REST API``` , ```GitHub```  , ```slack``` 
+
+### 수행한 역할
+- storyboard를 이용한 신규 화면 추가 및 디자인 교체
+- swift-UI 이용한 팝업 표시
+- RESTful API 밎 SOAP API을 통한 테이터 연동
+- 기존 timer를 이용한 방식에서 socket i.o를 이용한 주식차트데이터 websocket연동
+- Firebase Crashlytics 설정
+- AppsFlyer 설정(모바일 마케팅 분석 및 기여 플랫폼)
+- 추가 기능개발
+    - 파이낸스 UI 및 개발
+    - 탐색 탭 UI 교체(랭킹, 추천인 표시)
+    - 주식 테마 UI 및 개발
+    - 이벤트 화면 UI 및 개발
+    - 나를 표현하는 태그 화면 UI 및 개발
+- 버그 사항 대응
+- NH, KB 증권사 연동
+- 앱 심사 및 배포
+
+### Screenshot
+<a href="./img/CoffeeHouse/CoffeeHouse_HomeView.jpeg"><img src="./img/CoffeeHouse/CoffeeHouse_HomeView.jpeg" width="160px" height="320px" title="home" alt="home" /></a>
+<a href="./img/CoffeeHouse/CoffeeHouse_SearchView.jpeg"><img src="./img/CoffeeHouse/CoffeeHouse_SearchView.jpeg" width="160px" height="320px" title="search" alt="search" /></a>
+<a href="./img/CoffeeHouse/CoffeeHouse_EventListView.jpeg"><img src="./img/CoffeeHouse/CoffeeHouse_EventListView.jpeg" width="160px" height="320px" title="eventList" alt="eventList" /></a>
+<a href="./img/CoffeeHouse/CoffeeHouse_FinanceViewOfMyAccount.jpeg"><img src="./img/CoffeeHouse/CoffeeHouse_FinanceViewOfMyAccount.jpeg" width="160px" height="320px" title="myAccount" alt="myAccount" /></a>
+<a href="./img/CoffeeHouse/CoffeeHouse_FinanceViewOfInterestStock.jpeg"><img src="./img/CoffeeHouse/CoffeeHouse_FinanceViewOfInterestStock.jpeg" width="160px" height="320px" title="interestStock" alt="interestStock" /></a>
+<a href="./img/CoffeeHouse/CoffeeHouse_ProfileView.jpeg"><img src="./img/CoffeeHouse/CoffeeHouse_ProfileView.jpeg" width="160px" height="320px" title="profileView" alt="profileView" /></a>
+<a href="./img/CoffeeHouse/CoffeeHouse_EditProfileView.jpeg"><img src="./img/CoffeeHouse/CoffeeHouse_EditProfileView.jpeg" width="160px" height="320px" title="login" alt="login" /></a>
+<a href="./img/CoffeeHouse/CoffeeHouse_SelectTagView.jpeg"><img src="./img/CoffeeHouse/CoffeeHouse_SelectTagView.jpeg" width="160px" height="320px" title="selectTagView" alt="selectTagView" /></a>
+<a href="./img/CoffeeHouse/CoffeeHouse_ThemeView.jpeg"><img src="./img/CoffeeHouse/CoffeeHouse_ThemeView.jpeg" width="160px" height="320px" title="themeView" alt="themeView" /></a>
+
+## 국방모바일보안
+국방모바일보안앱은 군장병 휴대전화의 카메라 기능을 제어하는 앱입니다.
+기존 휴대전화 카메라에 부착하는 보안스티커를 대체하는 앱으로, 촬영 등 카메라 기능을 차단하여 군사자료 유출 시도를 원천적으로 차단합니다.
+
+### 프로젝트 기간
+2021.06.01 ~ 2021.11.30
+
+### 사용한 기술
+- ```Swift``` ,```CoreBluetooth```, ```CoreLocation```, ```CoreNFC```
+
+### 수행한 역할
+- 문의사항 대응
+- 2차 국방부 사업
+    - 간부 식별코드 개선 반영
+    - 간부용 신규 비콘 및 NFC 추가
+    - GPS해제 기능
+    - UI 수정
+    - AppStore 심사 및 출시
 
 ## 프로젝트【일본】
 ## Batch File작성 웹어플리케이션 구축
@@ -70,12 +130,12 @@
     + 해결 : imageView의 layer에서 CALayer로 바꿔 적용시킴으로써 해결
 
 ### Screenshot
-<a href="./img/Boatrace2_login.png"><img src="./img/Boatrace2_login.png" width="320px" height="180px" title="login" alt="login" /></a>
-<a href="./img/Boatrace2_jyo.png"><img src="./img/Boatrace2_jyo.png" width="320px" height="180px" title="jyo" alt="jyo" /></a>
-<a href="./img/Boatrace2_menu.png"><img src="./img/Boatrace2_menu.png" width="320px" height="180px" title="menu" alt="menu" /></a>
-<a href="./img/Boatrace2_ranning_table.png"><img src="./img/Boatrace2_ranning_table.png" width="320px" height="180px" title="ranning_table" alt="ranning_table" /></a>
-<a href="./img/Boatrace2_vote.png"><img src="./img/Boatrace2_vote.png" width="320px" height="180px" title="vote" alt="vote" /></a>
-<a href="./img/Boatrace2_race_result.png"><img src="./img/Boatrace2_race_result.png" width="320px" height="180px" title="race_result" alt="race_result" /></a>
+<a href="./img/Boatrace2/Boatrace2_login.png"><img src="./img/Boatrace2/Boatrace2_login.png" width="320px" height="180px" title="login" alt="login" /></a>
+<a href="./img/Boatrace2/Boatrace2_jyo.png"><img src="./img/Boatrace2/Boatrace2_jyo.png" width="320px" height="180px" title="jyo" alt="jyo" /></a>
+<a href="./img/Boatrace2/Boatrace2_menu.png"><img src="./img/Boatrace2_menu.png" width="320px" height="180px" title="menu" alt="menu" /></a>
+<a href="./img/Boatrace2/Boatrace2_ranning_table.png"><img src="./img/Boatrace2/Boatrace2_ranning_table.png" width="320px" height="180px" title="ranning_table" alt="ranning_table" /></a>
+<a href="./img/Boatrace2/Boatrace2_vote.png"><img src="./img/Boatrace2_vote.png" width="320px" height="180px" title="vote" alt="vote" /></a>
+<a href="./img/Boatrace2/Boatrace2_race_result.png"><img src="./img/Boatrace2/Boatrace2_race_result.png" width="320px" height="180px" title="race_result" alt="race_result" /></a>
 
 ##  모터 보트 경기 iOS어플리케이션 개발Ⅰ
 
@@ -112,11 +172,11 @@
     + 해결 : window.open은 WKUIDelegate에 트리거가 되는 것을 확인해 링크의 url을 열리게 함   
      
 ### Screenshot
-<a href="./img/Boatrace_launcher.png"><img src="./img/Boatrace_launcher.png" width="180px" height="320px" title="Launcher" alt="Launcher" /></a>
-<a href="./img/Boatrace_home.png"><img src="./img/Boatrace_home.png" width="180px" height="320px" title="Home" alt="Home" /></a>
-<a href="./img/Boatrace_favorite_racer.png"><img src="./img/Boatrace_favorite_racer.png" width="180px" height="320px" title="FavoriteRacer" alt="FavoriteRacer" /></a>
-<a href="./img/Boatrace_user_setting.png"><img src="./img/Boatrace_user_setting.png" width="180px" height="320px" title="UserSetting" alt="UserSetting" /></a>
-<a href="./img/Boatrace_webview.png"><img src="./img/Boatrace_webview.png" width="180px" height="320px" title="Webview" alt="Webview" /></a>
+<a href="./img/Boatrace/Boatrace_launcher.png"><img src="./img/Boatrace/Boatrace_launcher.png" width="180px" height="320px" title="Launcher" alt="Launcher" /></a>
+<a href="./img/Boatrace/Boatrace_home.png"><img src="./img/Boatrace/Boatrace_home.png" width="180px" height="320px" title="Home" alt="Home" /></a>
+<a href="./img/Boatrace/Boatrace_favorite_racer.png"><img src="./img/Boatrace/Boatrace_favorite_racer.png" width="180px" height="320px" title="FavoriteRacer" alt="FavoriteRacer" /></a>
+<a href="./img/Boatrace/Boatrace_user_setting.png"><img src="./img/Boatrace/Boatrace_user_setting.png" width="180px" height="320px" title="UserSetting" alt="UserSetting" /></a>
+<a href="./img/Boatrace/Boatrace_webview.png"><img src="./img/Boatrace/Boatrace_webview.png" width="180px" height="320px" title="Webview" alt="Webview" /></a>
 
 
 ##  MUFG은행 외환 웹어플리케이션 구축
