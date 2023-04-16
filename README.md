@@ -20,6 +20,9 @@
     - SourceTree
 
 ## 프로젝트【한국】
+
+<br>
+
 ## 커피하우스
 주식이야기를 나누며 사람들과 소통하는 SNS의 기능과 증권사들(SK,KB,NH,신한)의 주식 계좌개설 및 주식 구매, 판매를 할 수 있는 앱입니다.
 
@@ -57,6 +60,8 @@
 <a href="./img/CoffeeHouse/CoffeeHouse_SelectTagView.jpeg"><img src="./img/CoffeeHouse/CoffeeHouse_SelectTagView.jpeg" width="160px" height="320px" title="selectTagView" alt="selectTagView" /></a>
 <a href="./img/CoffeeHouse/CoffeeHouse_ThemeView.jpeg"><img src="./img/CoffeeHouse/CoffeeHouse_ThemeView.jpeg" width="160px" height="320px" title="themeView" alt="themeView" /></a>
 
+<br><br>
+
 ## 국방모바일보안
 국방모바일보안앱은 군장병 휴대전화의 카메라 기능을 제어하는 앱입니다.
 기존 휴대전화 카메라에 부착하는 보안스티커를 대체하는 앱으로, 촬영 등 카메라 기능을 차단하여 군사자료 유출 시도를 원천적으로 차단합니다.
@@ -84,9 +89,10 @@
 
 ---
 
+## 프로젝트【일본】
+
 <br>
 
-## 프로젝트【일본】
 ## Batch File작성 웹어플리케이션 구축
 엑셀 VBA를 사용하여 이동통신시스템의 기지국 배치에 따른 통신장비의 주파수대역, 대역폭, 변복조기술, 송신 출력, 채널등의 정보를 이용하여 Batch File을 작성하는 시스템을 웹어플리케션을 통해 자동으로 Batch File을 작성해주는 서비스를 구축하는 프로젝트입니다.
 
@@ -104,6 +110,11 @@
 - Excel 파일 다운로드 기능
 - PostMan을 이용해 API 연동 및 테스트 
 - Unit/UI 테스트
+
+### Screenshot
+보안상으로 스크린샷 없음
+
+<br><br>
 
 ## 모터 보트 경기 iOS어플리케이션 개발Ⅰ,Ⅱ
 경륜 경마 함께 공영 경기의 하나로서 프로 선수들에 따른 모터 보트 경기에 대한 서비스를 구축하는 프로젝트입니다.
@@ -198,7 +209,7 @@
 은행의 자체 VBA, Excel 등을 이용한 분석 및 외환 자동 집계를 Web어플리케션을 통해 반자동화 툴을 제공하는 서비스를 구축하는 프로젝트입니다.
 
 ### Screenshot
-보안상의 사유로 스크린샷 없음
+보안상으로 스크린샷 없음
 
 ### 프로젝트 기간
 2018.01.01 ~ 2019.06.30
