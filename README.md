@@ -130,12 +130,12 @@
     + 해결 : imageView의 layer에서 CALayer로 바꿔 적용시킴으로써 해결
 
 ### Screenshot
-<a href="./img/Boatrace2/Boatrace2_login.png"><img src="./img/Boatrace2/Boatrace2_login.png" width="320px" height="180px" title="login" alt="login" /></a>
-<a href="./img/Boatrace2/Boatrace2_jyo.png"><img src="./img/Boatrace2/Boatrace2_jyo.png" width="320px" height="180px" title="jyo" alt="jyo" /></a>
-<a href="./img/Boatrace2/Boatrace2_menu.png"><img src="./img/Boatrace2_menu.png" width="320px" height="180px" title="menu" alt="menu" /></a>
-<a href="./img/Boatrace2/Boatrace2_ranning_table.png"><img src="./img/Boatrace2/Boatrace2_ranning_table.png" width="320px" height="180px" title="ranning_table" alt="ranning_table" /></a>
-<a href="./img/Boatrace2/Boatrace2_vote.png"><img src="./img/Boatrace2_vote.png" width="320px" height="180px" title="vote" alt="vote" /></a>
-<a href="./img/Boatrace2/Boatrace2_race_result.png"><img src="./img/Boatrace2/Boatrace2_race_result.png" width="320px" height="180px" title="race_result" alt="race_result" /></a>
+<a href="./img/BoatRace2/Boatrace2_login.png"><img src="./img/BoatRace2/Boatrace2_login.png" width="320px" height="180px" title="login" alt="login" /></a>
+<a href="./img/BoatRace2/Boatrace2_jyo.png"><img src="./img/BoatRace2/Boatrace2_jyo.png" width="320px" height="180px" title="jyo" alt="jyo" /></a>
+<a href="./img/BoatRace2/Boatrace2_menu.png"><img src="./img/BoatRace2/Boatrace2_menu.png" width="320px" height="180px" title="menu" alt="menu" /></a>
+<a href="./img/BoatRace2/Boatrace2_ranning_table.png"><img src="./img/BoatRace2/Boatrace2_ranning_table.png" width="320px" height="180px" title="ranning_table" alt="ranning_table" /></a>
+<a href="./img/BoatRace2/Boatrace2_vote.png"><img src="./img/BoatRace2/Boatrace2_vote.png" width="320px" height="180px" title="vote" alt="vote" /></a>
+<a href="./img/BoatRace2/Boatrace2_race_result.png"><img src="./img/BoatRace2/Boatrace2_race_result.png" width="320px" height="180px" title="race_result" alt="race_result" /></a>
 
 ##  모터 보트 경기 iOS어플리케이션 개발Ⅰ
 
@@ -172,15 +172,18 @@
     + 해결 : window.open은 WKUIDelegate에 트리거가 되는 것을 확인해 링크의 url을 열리게 함   
      
 ### Screenshot
-<a href="./img/Boatrace/Boatrace_launcher.png"><img src="./img/Boatrace/Boatrace_launcher.png" width="180px" height="320px" title="Launcher" alt="Launcher" /></a>
-<a href="./img/Boatrace/Boatrace_home.png"><img src="./img/Boatrace/Boatrace_home.png" width="180px" height="320px" title="Home" alt="Home" /></a>
-<a href="./img/Boatrace/Boatrace_favorite_racer.png"><img src="./img/Boatrace/Boatrace_favorite_racer.png" width="180px" height="320px" title="FavoriteRacer" alt="FavoriteRacer" /></a>
-<a href="./img/Boatrace/Boatrace_user_setting.png"><img src="./img/Boatrace/Boatrace_user_setting.png" width="180px" height="320px" title="UserSetting" alt="UserSetting" /></a>
-<a href="./img/Boatrace/Boatrace_webview.png"><img src="./img/Boatrace/Boatrace_webview.png" width="180px" height="320px" title="Webview" alt="Webview" /></a>
+<a href="./img/BoatRace/Boatrace_launcher.png"><img src="./img/BoatRace/Boatrace_launcher.png" width="180px" height="320px" title="Launcher" alt="Launcher" /></a>
+<a href="./img/BoatRace/Boatrace_home.png"><img src="./img/BoatRace/Boatrace_home.png" width="180px" height="320px" title="Home" alt="Home" /></a>
+<a href="./img/BoatRace/Boatrace_favorite_racer.png"><img src="./img/BoatRace/Boatrace_favorite_racer.png" width="180px" height="320px" title="FavoriteRacer" alt="FavoriteRacer" /></a>
+<a href="./img/BoatRace/Boatrace_user_setting.png"><img src="./img/BoatRace/Boatrace_user_setting.png" width="180px" height="320px" title="UserSetting" alt="UserSetting" /></a>
+<a href="./img/BoatRace/Boatrace_webview.png"><img src="./img/BoatRace/Boatrace_webview.png" width="180px" height="320px" title="Webview" alt="Webview" /></a>
 
 
 ##  MUFG은행 외환 웹어플리케이션 구축
 은행의 자체 VBA, Excel 등을 이용한 분석 및 외환 자동 집계를 Web어플리케션을 통해 반자동화 툴을 제공하는 서비스를 구축하는 프로젝트입니다.
+
+### Screenshot
+보안상의 사유로 스크린샷 없음
 
 ### 프로젝트 기간
 2018.01.01 ~ 2019.06.30
