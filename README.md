@@ -176,7 +176,7 @@
 - iOS11의Target버전업에 따른 WkWebView이행 작업
 - deprecated메소드 교체 작업
 - RESTful API를 이용하여 유저데이터 및 경기 정보 서비스의 통신 개발
-- Pusher응용프로그램를 이용한 APNS테스트
+- Pusher응용프로그램를 이용한 APNS테스트(https://github.com/noodlewerk/NWPusher)
 - Unit/UI 테스트사양서 작성 및 테스트
 
 ### Trouble Shooting
